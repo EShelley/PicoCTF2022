@@ -2,7 +2,7 @@
 
 
 ## **Who am I?**
-My name's Eric and I'm an aspiring cybersecuring enthusiast, and this was my first year competing in picoCTF.
+My name's Eric and I'm an aspiring cybersecuring enthusiast, and this was my first year competing in picoCTF.  As I get time I will be adding in my writeups for the challenges I completed, but my notes area bit all over the place so I want to clean them up first.
 
 ## **Challenges**
 
