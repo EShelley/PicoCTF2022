@@ -10,7 +10,7 @@ My name's Eric and I'm an aspiring cybersecuring enthusiast, and this was my fir
 
 <summary>Web Exploitation</summary>
 
-|Question|Points|Completed|
+|Challenge|Points|Completed|
 |--------|------|---------|
 
 </details>
@@ -19,7 +19,7 @@ My name's Eric and I'm an aspiring cybersecuring enthusiast, and this was my fir
 
 <summary>Cryptography</summary>
 
-|Question|Points|Completed|
+|Challenge|Points|Completed|
 |--------|------|---------|
 
 </details>
@@ -28,7 +28,7 @@ My name's Eric and I'm an aspiring cybersecuring enthusiast, and this was my fir
 
 <summary>Reverse Engineering</summary>
 
-|Question|Points|Completed|
+|Challenge|Points|Completed|
 |--------|------|---------|
 
 </details>
@@ -37,7 +37,7 @@ My name's Eric and I'm an aspiring cybersecuring enthusiast, and this was my fir
 
 <summary>Forensics</summary>
 
-|Question|Points|Completed|
+|Challenge|Points|Completed|
 |--------|------|---------|
 
 </details>
@@ -46,7 +46,7 @@ My name's Eric and I'm an aspiring cybersecuring enthusiast, and this was my fir
 
 <summary>General Skills</summary>
 
-|Question|Points|Completed|
+|Challenge|Points|Completed|
 |--------|------|---------|
 
 </details>
@@ -55,9 +55,9 @@ My name's Eric and I'm an aspiring cybersecuring enthusiast, and this was my fir
 
 <summary>Binary Exploitation</summary>
 
-|Question|Points|Completed|
+|Challenge|Points|Completed|
 |:--- | :---: | :---: |
-|sdfadswfhaspdofiahsdfpoasdfa|800|yes|
+|[basic-file-exploit](./BinaryExploitation/basic-file-exploit)|100|yes|
 </details><br>
 
 ## **About**
