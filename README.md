@@ -11,7 +11,7 @@ My name's Eric and I'm an aspiring cybersecuring enthusiast, and this was my fir
 <summary>Web Exploitation</summary>
 
 |Challenge|Points|Completed|
-|--------|------|---------|
+|:--- | :---: | :---: |
 
 </details>
 
@@ -20,8 +20,8 @@ My name's Eric and I'm an aspiring cybersecuring enthusiast, and this was my fir
 <summary>Cryptography</summary>
 
 |Challenge|Points|Completed|
-|--------|------|---------|
-
+|:--- | :---: | :---: |
+|[basic-mod1](./Cryptography/basic-mod1)|100|yes|
 </details>
 
 <details>
@@ -29,7 +29,7 @@ My name's Eric and I'm an aspiring cybersecuring enthusiast, and this was my fir
 <summary>Reverse Engineering</summary>
 
 |Challenge|Points|Completed|
-|--------|------|---------|
+|:--- | :---: | :---: |
 
 </details>
 
@@ -38,7 +38,7 @@ My name's Eric and I'm an aspiring cybersecuring enthusiast, and this was my fir
 <summary>Forensics</summary>
 
 |Challenge|Points|Completed|
-|--------|------|---------|
+|:--- | :---: | :---: |
 
 </details>
 
@@ -47,7 +47,7 @@ My name's Eric and I'm an aspiring cybersecuring enthusiast, and this was my fir
 <summary>General Skills</summary>
 
 |Challenge|Points|Completed|
-|--------|------|---------|
+|:--- | :---: | :---: |
 
 </details>
 
