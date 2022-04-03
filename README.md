@@ -1,4 +1,4 @@
-# **PicoCTF2022**
+# <img src="https://picoctf.org/img/logos/picoctf-logo-horizontal-white.svg">**2022**
 
 
 ## **Who am I?**
