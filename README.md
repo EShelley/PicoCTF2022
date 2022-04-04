@@ -22,6 +22,7 @@ My name's Eric and I'm an aspiring cybersecuring enthusiast, and this was my fir
 |Challenge|Points|Completed|
 |:--- | :---: | :---: |
 |[basic-mod1](./Cryptography/basic-mod1)|100|yes|
+|[basic-mod2](./Cryptography/basic-mod2)|100|yes|
 </details>
 
 <details>
