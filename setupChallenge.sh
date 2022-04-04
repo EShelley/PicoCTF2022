@@ -7,10 +7,10 @@ if ! [ -d "./$1"]; then
 	mkdir $1
 	echo "-Done-"
 	echo "Create Dummy readme.md and flag files"
-	echo $1 " Challenge:" >  $1/readme.md
+	cat ./readme_template.md >  $1/README.md
+	sed -i 's/<CName>/'$1'/' $1/README.md
 	touch $1/flag
-	echo "Entering new Challenge Folder"
-	cd ./$1
+	
 	echo "Exiting"
 else
 	echo $1 " is already a directory - try again"
