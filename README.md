@@ -32,7 +32,7 @@ My name's Eric and I'm an aspiring cybersecuring enthusiast, and this was my fir
 
 |Challenge|Points|Completed|
 |:--- | :---: | :---: |
-
+|[file-run1](./ReverseEngineering/file-run1/)|100|yes|
 </details>
 
 <details>
