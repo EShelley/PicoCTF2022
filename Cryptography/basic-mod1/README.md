@@ -1,7 +1,7 @@
 # **Challenge:** basic mod 1
 
 
-### **Category:** Cryptography
+### **Category:** [Cryptography](../)
 ### **Point Value:** 100
 ### **Author:** Will Hong
 <br>

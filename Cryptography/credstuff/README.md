@@ -1,7 +1,7 @@
 # **Challenge:** credstuff
 
 
-### **Category:** Cryptography
+### **Category:** [Cryptography](../)
 ### **Point Value:** 100
 ### **Author:** WILL HONG / LT 'SYREAL' JONES
 <br>
