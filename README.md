@@ -47,6 +47,7 @@ My name's Eric and I'm an aspiring cybersecuring enthusiast, and this was my fir
 |Challenge|Points|Completed|
 |:--- | :---: | :---: |
 |[ENHANCE!](./Forensics/Enhance!/)|100|
+|[Lookey Here](./Forensics/Lookey-Here/)|100|
 </details>
 
 <details>
