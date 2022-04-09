@@ -52,6 +52,7 @@ My name's Eric and I'm an aspiring cybersecuring enthusiast, and this was my fir
 |[ENHANCE!](./Forensics/Enhance!/)|100|
 |[Lookey Here](./Forensics/Lookey-Here/)|100|
 |[Packet Primer](./Forensics/Packets-Primer/)|100|
+|[Redaction gone wrong](./Forensics/Redaction-gone-wrong/)|100|
 </details>
 
 <details>
