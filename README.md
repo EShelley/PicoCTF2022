@@ -15,6 +15,7 @@ My name's Eric and I'm an aspiring cybersecuring enthusiast, and this was my fir
 |[Includes](./WebExploitation/Includes/)|100|yes|
 |[Inspect HTML](./WebExploitation/Inspect-HTML/)|100|yes|
 |[Local Authority](./WebExploitation/Local-Authority/)|100|yes|
+|[Search Source](./WebExploitation/Search-Source/)|100|yes|
 </details>
 
 <details>
