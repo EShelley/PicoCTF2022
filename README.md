@@ -41,6 +41,7 @@ My name's Eric and I'm an aspiring cybersecuring enthusiast, and this was my fir
 |[File-types](./ReverseEngineering/File-types/)|100|yes|
 |[GDB Test Drive](./ReverseEngineering/GDB-Test-Drive/)|100|yes|
 |[patchme.py](./ReverseEngineering/patchme-py/)|100|yes|
+|[Safe Opener](./ReverseEngineering/Safe-Opener/)|100|yes|
 </details>
 
 <details>
