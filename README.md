@@ -29,6 +29,7 @@ My name's Eric and I'm an aspiring cybersecuring enthusiast, and this was my fir
 |[credstuff](./Cryptography/credstuff)|100|yes|
 |[Morse Code](./Cryptography/Morse-Code)|100|yes|
 |[rail-fence](./Cryptography/rail-fence)|100|yes|
+|[substitution0](./Cryptography/substitution0)|100|yes|
 </details>
 
 <details>
