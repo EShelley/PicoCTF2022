@@ -1,9 +1,9 @@
 # **Challenge:** substitution2
 
 
-### **Category:**
-### **Point Value:**
-### **Author:**
+### **Category:** Cryptography
+### **Point Value:** 100
+### **Author:** Will Hong
 <br>
 
 ## **Description:**
