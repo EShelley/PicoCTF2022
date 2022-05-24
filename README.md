@@ -33,6 +33,7 @@ My name's Eric and I'm an aspiring cybersecuring enthusiast, and this was my fir
 |[substitution1](./Cryptography/substitution1)|100|yes|
 |[substitution2](./Cryptography/substitution2)|100|yes|
 |[transposition-trial](./Cryptography/transposition-trial)|100|yes|
+|[vigenere](./Cryptography/vigenere)|100|yes|
 </details>
 
 <details>
