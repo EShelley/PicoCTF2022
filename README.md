@@ -32,7 +32,7 @@ My name's Eric and I'm an aspiring cybersecuring enthusiast, and this was my fir
 |[substitution0](./Cryptography/substitution0)|100|yes|
 |[substitution1](./Cryptography/substitution1)|100|yes|
 |[substitution2](./Cryptography/substitution2)|100|yes|
-|[substitution2](./Cryptography/transposition-trial)|100|yes|
+|[transposition-trial](./Cryptography/transposition-trial)|100|yes|
 </details>
 
 <details>
@@ -47,7 +47,7 @@ My name's Eric and I'm an aspiring cybersecuring enthusiast, and this was my fir
 |[GDB Test Drive](./ReverseEngineering/GDB-Test-Drive/)|100|yes|
 |[patchme.py](./ReverseEngineering/patchme-py/)|100|yes|
 |[Safe Opener](./ReverseEngineering/Safe-Opener/)|100|yes|
-|[Safe Opener](./ReverseEngineering/unpackme.py/)|100|yes|
+|[unpackme.py](./ReverseEngineering/unpackme.py/)|100|yes|
 </details>
 
 <details>
