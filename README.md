@@ -49,7 +49,7 @@ My name's Eric and I'm an aspiring cybersecuring enthusiast, and this was my fir
 |[patchme.py](./ReverseEngineering/patchme-py/)|100|yes|
 |[Safe Opener](./ReverseEngineering/Safe-Opener/)|100|yes|
 |[unpackme.py](./ReverseEngineering/unpackme.py/)|100|yes|
-|[bloat.py](./ReverseEngineering/unpackme.py/)|200|yes|
+|[bloat.py](./ReverseEngineering/bloat.py/)|200|yes|
 </details>
 
 <details>
