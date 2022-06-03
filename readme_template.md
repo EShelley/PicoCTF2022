@@ -1,7 +1,7 @@
-# **Challenge:** <CName>
+# **Challenge:** CName
 
 
-### **Category:**
+### **Category:** CatName
 ### **Point Value:**
 ### **Author:**
 <br>

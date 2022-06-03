@@ -9,7 +9,8 @@ if ! [ -d "./$1/$2"]; then
 	echo "-Done-"
 	echo "Create Dummy readme.md and flag files"
 	cat ./readme_template.md >  ./$1/$2/README.md
-	sed -i 's/CName/'$2'/' ./$1/$1/README.md
+	sed -i 's/CName/'$2'/' ./$1/$2/README.md
+	sed -i 's/CatName/'$1'/' ./$1/$2/README.md
 	touch ./$1/$2/flag
 	
 	echo "Exiting"
