@@ -51,6 +51,7 @@ My name's Eric and I'm an aspiring cybersecuring enthusiast, and this was my fir
 |[Safe Opener](./ReverseEngineering/Safe-Opener/)|100|yes|
 |[unpackme.py](./ReverseEngineering/unpackme.py/)|100|yes|
 |[bloat.py](./ReverseEngineering/bloat.py/)|200|yes|
+|[Fresh Java](./ReverseEngineering/FreshJava/)|200|yes|
 </details>
 
 <details>
