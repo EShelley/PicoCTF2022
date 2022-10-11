@@ -17,6 +17,7 @@ My name's Eric and I'm an aspiring cybersecuring enthusiast, and this was my fir
 |[Local Authority](./WebExploitation/Local-Authority/)|100|yes|
 |[Search Source](./WebExploitation/Search-Source/)|100|yes|
 |[Forbidden Paths](./WebExploitation/ForbiddenPaths/)|200|yes|
+|[Power Cookie](./WebExploitation/PowerCookie/)|200|yes|
 </details>
 
 <details>
