@@ -16,6 +16,7 @@ My name's Eric and I'm an aspiring cybersecuring enthusiast, and this was my fir
 |[Inspect HTML](./WebExploitation/Inspect-HTML/)|100|yes|
 |[Local Authority](./WebExploitation/Local-Authority/)|100|yes|
 |[Search Source](./WebExploitation/Search-Source/)|100|yes|
+|[Forbidden Paths](./WebExploitation/ForbiddenPaths/)|200|yes|
 </details>
 
 <details>
