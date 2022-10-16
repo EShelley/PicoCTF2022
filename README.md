@@ -20,6 +20,7 @@ My name's Eric and I'm an aspiring cybersecuring enthusiast, and this was my fir
 |[Power Cookie](./WebExploitation/PowerCookie/)|200|yes|
 |[RobotoSans](./WebExploitation/RobotoSans/)|200|yes|
 |[Secrets](./WebExploitation/Secrets/)|200|yes|
+|[SQLDirect](./WebExploitation/SQLDirect/)|200|yes|
 </details>
 
 <details>
