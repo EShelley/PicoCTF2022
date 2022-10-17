@@ -91,6 +91,7 @@ My name's Eric and I'm an aspiring cybersecuring enthusiast, and this was my fir
 |[Buffer Overflow 0](./BinaryExploitation/buffer-overflow-0)|100|yes|
 |[CVE-XXXX-XXXX](./BinaryExploitation/CVE-XXXX-XXXX)|100|yes|
 |[RPS](./BinaryExploitation/RPS)|200|yes|
+|[x-sixty-what](./BinaryExploitation/x-sixty-what)|200|yes|
 </details><br>
 
 ## **About**
